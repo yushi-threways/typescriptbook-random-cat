@@ -45,7 +45,7 @@ const IndexPage: NextPage<IndexPageProps> = ({ initialCatImageUrl }) => {
             style={{
                 backgroundColor: "#319795",
                 border: "none",
-                borderRadius: "4px",
+                borderRadius: "5px",
                 color: "white",
                 padding: "4px 8px",
               }}
